@@ -26,7 +26,7 @@ class Login extends Component {
                 username : 'admin',
                 password : 'admin'
             },
-            accessToken : '0cd118647ba64d3aa0204a2884e4de17',
+            accessToken : '14226606342.0cd1186.48dd9bb462134c438c278b30f73f5f7d',
         };
     }
 
